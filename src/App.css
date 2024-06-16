@@ -1,0 +1,61 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.quiz {
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.question {
+  margin-bottom: 20px;
+}
+
+.question ul {
+  list-style: none;
+  padding: 0;
+}
+
+.question li {
+  background: #f0f0f0;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.question li:hover {
+  background: #e0e0e0;
+}
+
+.timer {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.score {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.feedback {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.quiz-completed {
+  font-size: 20px;
+}
+
+.fullscreen-prompt {
+  text-align: center;
+  padding: 20px;
+}
+
+.fullscreen-prompt button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}

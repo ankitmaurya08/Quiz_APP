@@ -1,0 +1,53 @@
+[
+    {
+      "text": "What is the capital of France?",
+      "choices": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "text": "Which planet is known as the Red Planet?",
+      "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "text": "What is the largest ocean on Earth?",
+      "choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "text": "Who wrote 'To Kill a Mockingbird'?",
+      "choices": ["Harper Lee", "J.K. Rowling", "Ernest Hemingway", "Mark Twain"],
+      "answer": "Harper Lee"
+    },
+    {
+      "text": "What is the smallest unit of matter?",
+      "choices": ["Molecule", "Atom", "Proton", "Neutron"],
+      "answer": "Atom"
+    },
+    {
+      "text": "What is the chemical symbol for water?",
+      "choices": ["O2", "H2O", "CO2", "HO"],
+      "answer": "H2O"
+    },
+    {
+      "text": "What is the fastest land animal?",
+      "choices": ["Lion", "Cheetah", "Horse", "Elephant"],
+      "answer": "Cheetah"
+    },
+    {
+      "text": "What is the tallest mountain in the world?",
+      "choices": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+      "answer": "Mount Everest"
+    },
+    {
+      "text": "What is the main ingredient in guacamole?",
+      "choices": ["Tomato", "Avocado", "Onion", "Pepper"],
+      "answer": "Avocado"
+    },
+    {
+      "text": "What is the capital of Japan?",
+      "choices": ["Tokyo", "Beijing", "Seoul", "Bangkok"],
+      "answer": "Tokyo"
+    }
+  ]
+  
